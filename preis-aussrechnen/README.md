@@ -8,4 +8,6 @@ Dann sagt man `$gesamtpreis = $cola + $pizza;` was die zwei zahlen in den variab
 
 # Ausgabe 
 
-![Screenshot](https://github.com/crydotsnake/php-lern-prozess/raw/master/img/screenshot.png?raw=true)
+![Screenshot](https://github.com/crydotsnake/php-lern-prozess/blob/master/preis-aussrechnen/img/screenshot.png?raw=true)
+
+Die Extension für die Code Aussgabe ist diese [hier](https://github.com/formulahendry/vscode-code-runner)
